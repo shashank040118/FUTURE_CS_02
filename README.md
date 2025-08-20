@@ -60,11 +60,5 @@ SOC_Task2/
 ✔️ Alert Classification Log (Spreadsheet)  
 ✔️ SIEM Dashboard Screenshots  
 ✔️ GitHub Repository Documentation  
-
----
-
-## 📧 Author
-👤 **Your Name Here**  
-🔗 [LinkedIn Profile Link]  
-📂 This repository is part of my internship at **CyArt Tech (SOC Domain)**.  
+ 
 
